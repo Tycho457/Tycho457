@@ -1,5 +1,5 @@
-## Hi , I am Tycho ! 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&width=435&lines=Hi%2CI+am+Tycho!+Welcome!)](https://git.io/typing-svg)
 <!--
 **Tycho457/Tycho457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tycho457&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tycho457&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
