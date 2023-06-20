@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&width=435&lines=Hi%2CI+am+Tycho!)](https://git.io/typing-svg)
-<img align='right' src='https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/l3fQ7hK1hpqujCXbG/giphy.gif' width='400'>
 <!--
 **Tycho457/Tycho457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
