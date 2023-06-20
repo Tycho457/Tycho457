@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 - 🌱 Front-end enthusiasts from China
 - 📫 A sophomore computer science student at GZHU
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-vue-green?style=green&logo=vue)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+<div>
+ <img src='https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif' width='70'>
+ <img src='https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif' width='70'>
+ <img src='https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif' width='70'>
+ <img src='https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif' width='70'>
+ <img src='https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif' width='70'>
+ <img src='https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' width='70'>
+</div>
+
+
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
