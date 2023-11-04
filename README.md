@@ -35,12 +35,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Vue.js                   3 mins              ███████████████████░░░░░░   77.89 % 
-JSON                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/11/2023 18:32:56 UTC
+ Last Updated on 04/11/2023 18:31:04 UTC
 <!--END_SECTION:waka-->
 
