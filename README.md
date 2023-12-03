@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 mins              ███████████████░░░░░░░░░░   60.59 % 
-JSON                     1 min               ██████████░░░░░░░░░░░░░░░   39.41 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/12/2023 18:30:56 UTC
+ Last Updated on 03/12/2023 18:31:02 UTC
 <!--END_SECTION:waka-->
 
