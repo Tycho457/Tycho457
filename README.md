@@ -25,7 +25,6 @@ Here are some ideas to get you started:
  <img src='https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif' width='70'>
  <img src='https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif' width='70'>
  <img src='https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif' width='70'>
- <img src='https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' width='70'>
 </div>
 
 
