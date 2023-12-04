@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               0 secs              ██████████████████░░░░░░░   70.49 % 
+JavaScript               0 secs              ███████░░░░░░░░░░░░░░░░░░   29.51 % 
 ```
 
 
- Last Updated on 03/12/2023 18:31:02 UTC
+ Last Updated on 04/12/2023 18:33:12 UTC
 <!--END_SECTION:waka-->
 
