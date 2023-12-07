@@ -30,7 +30,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 06/12/2023 18:33:11 UTC
+```text
+💬 Programming Languages: 
+Git Config               0 secs              ██████████████████░░░░░░░   70.49 % 
+JavaScript               0 secs              ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+```
+
+
+ Last Updated on 07/12/2023 18:33:12 UTC
 <!--END_SECTION:waka-->
 
