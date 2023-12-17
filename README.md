@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-HTML                     11 mins             █████████████████████████   100.00 % 
+C                        5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/12/2023 18:30:52 UTC
+ Last Updated on 17/12/2023 18:31:47 UTC
 <!--END_SECTION:waka-->
 
