@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 29 mins             █████████████████████░░░░   83.33 % 
-Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/01/2024 18:32:36 UTC
+ Last Updated on 13/01/2024 18:30:58 UTC
 <!--END_SECTION:waka-->
 
