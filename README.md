@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 
 *learn more about me:*   [click me](https://gzhutyc.top/)
+*contact me:* [nowayhong@gmail.com](nowayhong@gmail.com)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
