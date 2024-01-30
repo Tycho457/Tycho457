@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 </div>
 -->
 
-*learn more about me:*   [click me](https://gzhutyc.top/)
-*contact me:* [nowayhong@gmail.com](nowayhong@gmail.com)
+📌 **Some potentially useful information** 
+
+- *learn more about me:*   [click me](https://gzhutyc.top/)
+- *contact me:* [nowayhong@gmail.com](mailto:nowayhong@gmail.com)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
