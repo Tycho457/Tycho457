@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 - 🌱 Front-end enthusiasts from China
 - 📫 A sophomore computer science student at GZHU
 
@@ -26,7 +28,7 @@ Here are some ideas to get you started:
  <img src='https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif' width='70'>
  <img src='https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif' width='70'>
 </div>
-
+-->
 
 
 <!--START_SECTION:waka-->
