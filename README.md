@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
+*learn more about me:*   [Blog](https://gzhutyc.top/)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
