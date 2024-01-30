@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-📌 **Some potentially useful information** 
+📌 **Some Potentially Useful Information** 
 
 - *learn more about me:*   [click here](https://gzhutyc.top/)
 - *contact me:* [nowayhong@gmail.com](mailto:nowayhong@gmail.com)
