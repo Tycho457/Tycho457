@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&width=435&lines=Hi%2CI+am+Tycho!%F0%9F%91%8B)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&width=435&lines=Hi%2CI+am+Tycho!%F0%9F%91%8B)](https://git.io/typing-svg) -->
 
 <!--
 <img align='right' src='https://media.giphy.com/media/l3fQ7hK1hpqujCXbG/giphy.gif' width='350'>
