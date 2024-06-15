@@ -36,18 +36,7 @@ Here are some ideas to get you started:
 - *contact me:* [nowayhong@gmail.com](mailto:nowayhong@gmail.com)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Kotlin                   3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-JavaScript               2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-TypeScript               2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Markdown                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-```
-
-
- Last Updated on 14/06/2024 18:36:35 UTC
+ Last Updated on 15/06/2024 18:34:24 UTC
 <!--END_SECTION:waka-->
 
