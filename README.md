@@ -36,7 +36,18 @@ Here are some ideas to get you started:
 - *contact me:* [nowayhong@gmail.com](mailto:nowayhong@gmail.com)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/06/2024 18:34:24 UTC
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+Vue.js                   2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+JavaScript               2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Kotlin                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+```
+
+
+ Last Updated on 16/06/2024 18:34:48 UTC
 <!--END_SECTION:waka-->
 
