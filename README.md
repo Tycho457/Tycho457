@@ -40,11 +40,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 28 mins       █████████████████████████   99.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JavaScript               1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/09/2024 18:39:37 UTC
+ Last Updated on 19/09/2024 18:39:42 UTC
 <!--END_SECTION:waka-->
 
