@@ -40,11 +40,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-JSON                     9 mins              █████████████████████████   99.88 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/01/2025 18:39:53 UTC
+ Last Updated on 25/01/2025 18:36:46 UTC
 <!--END_SECTION:waka-->
 
