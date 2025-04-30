@@ -40,11 +40,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Vue.js                   20 mins             ███████████████░░░░░░░░░░   58.25 % 
-TypeScript               14 mins             ██████████░░░░░░░░░░░░░░░   41.75 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/04/2025 18:43:16 UTC
+ Last Updated on 30/04/2025 18:44:27 UTC
 <!--END_SECTION:waka-->
 
