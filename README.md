@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 📌 **Some Potentially Useful Information** 
 - *Primarily engaged in front-end development*
-- *learn more about me:*   [click here](https://gzhutyc.top/)
 - *contact me:* [nowayhong@gmail.com](mailto:nowayhong@gmail.com)
 
 <!--START_SECTION:waka-->
