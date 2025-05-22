@@ -35,7 +35,14 @@ Here are some ideas to get you started:
 - *contact me:* [nowayhong@gmail.com](mailto:nowayhong@gmail.com)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 21/05/2025 18:45:30 UTC
+```text
+💬 Programming Languages: 
+Vue.js                   7 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 22/05/2025 18:45:24 UTC
 <!--END_SECTION:waka-->
 
